@@ -1,4 +1,5 @@
- ![Drone1](https://github.com/Drone300/Drone300/assets/124827807/41d576f2-e667-4996-9c4c-f45c127fd497)
+ ![Drone2](https://github.com/Drone300/Drone300/assets/124827807/fa2b97d0-f69f-45f6-b018-67353ba558b3)
+
 - Computer Science Major
 - All about Passion Projects and Automation
 - Primarily uses Python in Projects
